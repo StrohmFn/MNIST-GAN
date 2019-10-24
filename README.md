@@ -6,5 +6,6 @@ This is a simple Keras implementation of a generative adversial network that is 
 Losses after 100 epochs
 ![Alt text](images/Loss_100_epochs.PNG?raw=true)
 
-Result after 100 epochs
+Randomly generated images after 100 epochs of training.
+The generated numbers are clearly recognizable and diverse.
 ![Alt text](images/numbers_100_epochs.PNG?raw=true)
